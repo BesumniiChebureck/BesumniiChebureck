@@ -13,10 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=BesumniiChebureck&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BesumniiChebureck&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub трофеи
+## 🏆 GitHub трофеи:
 ![](https://github-profile-trophy.vercel.app/?username=BesumniiChebureck&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Топ репозиториев по вкладу
+### 🔝 Топ репозиториев по вкладу:
 ![](https://github-contributor-stats.vercel.app/api?username=BesumniiChebureck&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- --- -->
